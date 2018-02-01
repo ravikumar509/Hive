@@ -1,3 +1,9 @@
 ##
 
-Hive is a Data warehousing project with which we can summarize or analyse the data that resides in HDFS, Amazon s3 etc..,
+Hive is a Data warehousing project with which we can summarize or analyze the data that resides in HDFS, Amazon s3 etc..,
+
+Hive project was taken up and developed in FaceBook, as many of the Facebook Data scientists are well familiar with SQL than JAVA, so 
+Hive provides SQL like Query language (HQL) with which we can interact and analyze the data.
+
+
+By default when you start the HIVE it will be in default database
